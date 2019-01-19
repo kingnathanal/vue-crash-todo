@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,e,s){"use strict";s.r(e);var o=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},n=[function(){var t=this,e=t.$createElement,s=t._self._c||e;return s("div",{staticClass:"about"},[s("h1",[t._v("About")]),s("p",[t._v(" This is the TodoList app v1.0.0. It is part of the Vue Crash Course vidoe. ")])])}],u=s("2877"),i={},a=Object(u["a"])(i,o,n,!1,null,null,null);a.options.__file="About.vue";e["default"]=a.exports}}]);
+//# sourceMappingURL=about.1adbe347.js.map
